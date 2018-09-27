@@ -1,4 +1,4 @@
-# PTR-Project
+# Protect the reality
 Tower Defense ARkit IOS game 
 
 В настоящее время исходный код проекта находится по ссылке:
